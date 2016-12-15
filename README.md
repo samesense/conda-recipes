@@ -1,6 +1,6 @@
 # conda-recipes
 
-To build packages localling, clone this repo, and cd into this dir.
+To build packages locally, clone this repo, and cd into this dir.
 * blasr example:
 ```
 conda build blasr
