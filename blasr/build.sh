@@ -12,6 +12,7 @@ cp utils/sawriter $PREFIX/bin
 cp utils/loadPulses $PREFIX/bin
 cp utils/pls2fasta $PREFIX/bin
 cp blasr $PREFIX/bin
+cp bax2bam $PREFIX/bin
 
 cp libcpp/alignment/libblasr.* $PREFIX/lib
 cp libcpp/hdf/libpbihdf.* $PREFIX/lib
